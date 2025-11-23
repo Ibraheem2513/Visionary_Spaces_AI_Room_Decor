@@ -23,6 +23,26 @@ https://drive.google.com/file/d/1g8UiEEPLl2lcR5vA6vkB0uQCBjXN_qVO/view?usp=shari
 
 ---
 
+## Output Examples
+
+- Input Image
+
+![original_image](https://github.com/user-attachments/assets/c6c9314e-15ee-4da4-957a-0a7603673abf)
+
+
+- Structure Map Image
+
+![structure_map](https://github.com/user-attachments/assets/bb852658-7978-4a0f-b421-7fbaaf0ee46d)
+
+
+- Final Output Image
+
+![output_image](https://github.com/user-attachments/assets/b863521b-40cc-4c09-a87f-6e2f67054cf1)
+
+
+---
+
+
 ## Requirements
 
 ```text
