@@ -18,9 +18,9 @@
 
 ## Demo
 
+- Checkout the demo video here:
 https://drive.google.com/file/d/1g8UiEEPLl2lcR5vA6vkB0uQCBjXN_qVO/view?usp=sharing
 
-- Checkout the demo video here
 ---
 
 ## Requirements
