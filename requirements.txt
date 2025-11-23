@@ -1,0 +1,10 @@
+torch
+transformers
+diffusers
+accelerate
+gradio
+pillow
+controlnet_aux
+mediapipe
+google-generativeai
+numpy==1.26.4
