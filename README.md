@@ -18,10 +18,9 @@
 
 ## Demo
 
-![Screenshot](screenshot.png)  <!-- Add a screenshot if available -->
+https://drive.google.com/file/d/1g8UiEEPLl2lcR5vA6vkB0uQCBjXN_qVO/view?usp=sharing
 
-You can also try a live demo by running the app locally and using `share=True` in Gradio.
-
+- Checkout the demo video here
 ---
 
 ## Requirements
